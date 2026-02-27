@@ -110,13 +110,4 @@ Geração de uma base única e consolidada de clientes:
 * Estrutura limpa e pronta para análise ou relatórios
 * Eliminação de consolidação manual
 
----
-
-# 💡 Possíveis Evoluções
-
-* Implementação de validação de conflitos (ex: telefones diferentes para o mesmo NIF)
-* Priorização de fontes específicas
-* Concatenação de múltiplos valores
-* Integração com bases SQL
-* Transformação em pipeline automatizado
 
