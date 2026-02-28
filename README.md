@@ -87,16 +87,14 @@ O objetivo foi:
 # 📂 Estrutura do Projeto
 
 ```
-/data
+/Ficheiros .xlsx
    Sales_January.xlsx
    Sales_February.xlsx
    Sales_March.xlsx
+   Resolução com PowerQuery.xlsx
 
-/python
-   consolidacao_clientes.py
-
-/power_query
-   consolidacao_clientes.m
+consolidacao_clientes.ipynb
+Consolidação Dados com Linguagem M.m
 ```
 
 ---
