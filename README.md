@@ -93,7 +93,7 @@ O objetivo foi:
    Sales_March.xlsx
    Resolução com PowerQuery.xlsx
 
-consolidacao_clientes.ipynb
+Consolidação_de_Dados_de_Clientes.ipynb
 Consolidação Dados com Linguagem M.m
 ```
 
